@@ -9,7 +9,7 @@ CFLAGS = -Wall -std=c++11
 cc = g++
 #Linking all the files
 #Create the executable program "a.out"
-a.out: die-main.o die.out
+a.out: die-main.o die.o
 	$(cc)	$(CFLAGS) die.o die-main.o
 
 die.o: die.cc die.h
