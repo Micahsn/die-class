@@ -1,4 +1,4 @@
-# Git Lab #2
+# The second Git Lab
 ## First team member: Micah Swinehart (Username: Micahsn)
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: Micah Swinehart (Username: MicahSwinehart)
+### Die class project. It simulates a die and includes a driver program.
